@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba para el PrepCourse de Henry
+Prueba de crear repositorio y clonarlo al escritorio
